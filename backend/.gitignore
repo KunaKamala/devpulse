@@ -1,5 +1,20 @@
-.env
+# Python
 venv/
 __pycache__/
 *.pyc
+*.pyo
 db.sqlite3
+.env
+
+# Node
+node_modules/
+dist/
+
+# Build
+staticfiles/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
